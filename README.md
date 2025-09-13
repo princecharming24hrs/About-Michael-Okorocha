@@ -200,7 +200,9 @@ Tools: Mikrotik, PFsense, Wazuh, Antivirus Suites, Firewall Configuration,   	  
 ## **Personal Details**
 
 Nigerian
+
 Husband
+
 Father
 
 Interests: Music, Youth Development, Technology
