@@ -205,7 +205,7 @@ Husband
 
 Father
 
-Interests: Music, Youth Development, Technology
+Interests: Technology, Family Oriented, Generational Minded, Youth Development
 
 Hobbies: Internet Browsing, Gaming, Gospel Music
 
