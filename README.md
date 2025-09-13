@@ -199,11 +199,9 @@ Tools: Mikrotik, PFsense, Wazuh, Antivirus Suites, Firewall Configuration,   	  
 
 ## **Personal Details**
 
-Date of Birth: 20 June 1971
-
-Marital Status: Married
-
-LGA/State: Owerri West, Imo State
+Nigerian
+Husband
+Father
 
 Interests: Music, Youth Development, Technology
 
