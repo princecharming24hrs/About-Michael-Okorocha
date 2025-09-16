@@ -23,31 +23,56 @@ Dynamic and results-driven IT Professional with over 15 years of progressive exp
 
 ## **Core Competencies**
 
-• IT Infrastructure Management
+▪	Network Security
 
-• Help Desk \& Technical Support
+▪	Vulnerability Assessment
 
-• Network \& System Administration
+▪	Penetration Testing
 
-• Cybersecurity \& Data Protection
+▪	Threat Intelligence
 
-• Digital Transformation
+▪	Risk Analysis	▪	Incident Response
 
-• Software Deployment \& Upgrades
+▪	Malware Analysis
 
-• IT Project Management
+▪	Security Auditing
 
-• Social Media \& Web Administration
+▪	Log Analysis
 
-• Staff Training \& Development
+▪	Security Monitoring	▪	Packet Analysis 
 
-• Business Process Improvement
+▪	Endpoint Security 
 
+▪	Firewall Configuration 
 
+▪	Analytical Thinking
 
+▪	Problem Solving
 
 
 ## **Professional Experience**
+
+### **Cybersecurity Analyst**
+
+Amdari Inc. - UK | June 2025 – Present
+
+▪ Developed and implemented cybersecurity frameworks using Windows Server 11, Linux (Kali), and Active Directory, protecting sensitive data from unauthorized access and reducing breach risk by 25%.
+
+▪	Implemented and optimized SIEM solutions (Splunk, ELK Stack), improving real-time threat detection and reducing cyber incidents by 40%, while cutting incident response time by 50% through automated alerting and streamlined remediation workflows.
+
+▪	Led comprehensive security audits aligned with ISO 27001, GDPR, and NIST frameworks, achieving 100% compliance and reinforcing regulatory adherence and enterprise risk mitigation.
+
+▪	Identified and remediated vulnerabilities via proactive risk assessments, penetration testing (Nmap, Metasploit, Hydra), and automated patch management, reducing the organization’s attack surface by 85%.
+
+▪	Detected and neutralized 250+ viruses and malware through continuous monitoring with Wireshark, Metasploit, and Splunk, safeguarding 60+ websites without major security incidents.
+
+▪	Strengthened facility security by implementing Cisco-based VPN access controls and physical security measures, lowering physical breach risk by 20%.
+
+▪	Conducted vulnerability assessments and penetration testing using Nmap, Hydra, and MobSF, leading to a 25% reduction in successful attack attempts.
+
+▪	Maintained 99% data security through ongoing threat analysis and patch management with SIEM (ELK Stack) and advanced firewall configurations.
+
+▪	Led company-wide risk assessment and compliance reviews aligned with ISO 27001 standards, reducing non-compliance issues by 30%.
 
 
 
@@ -71,13 +96,20 @@ House on the Rock, Abuja, Nigeria | 2016 – Present
 
 
 
-### Remote System Engineer \& Support Consultant
+
+### **Help Desk Support / System Engineer**
 
 Phillip Foundation International, Houston, TX (Remote) | 2021 – Present
 
-•	Delivered remote IT support, system diagnostics, video editing, and livestreaming consultations.
+▪	Provide comprehensive help desk support, troubleshooting hardware, software, and network issues to ensure uninterrupted remote operations and user productivity.
 
-•	Managed social media platforms and multimedia content creation.
+▪	Engineer and maintain system infrastructure, including configuration, monitoring, and optimization of IT resources to support organizational goals.
+
+▪	Produce and edit high-quality video content for promotional, educational, and event purposes, enhancing digital engagement and audience reach.
+
+▪	Manage social media accounts across multiple platforms, developing content strategies, scheduling posts, and analyzing performance metrics to increase visibility and follower engagement.
+
+▪	Consult on live streaming events by coordinating technical setups, ensuring seamless broadcast quality, and troubleshooting real-time issues to maximize event impact.
 
 
 
@@ -85,17 +117,15 @@ Phillip Foundation International, Houston, TX (Remote) | 2021 – Present
 
 New Era Energy Solutions Nigeria Ltd, Abuja, Nigeria | 2013 – 2016
 
-•	Configured and maintained Windows Server 2008 domain environment and Exchange Server.
-
-•	Administered client systems, OS upgrades, and Microsoft Office suite installations.
-
-•	Managed network security, backups, user authentication, and system recovery.
-
-•	Supported business operations including document design, budget preparation, and banking.
+* Configured and administered the company’s Domain Controller on Windows Server 2008, managing client systems running Windows 7 within the domain environment.
+*  Set up and maintained Microsoft Exchange Server to enable corporate email collaboration, including upgrading Outlook clients from legacy versions (2000) to Outlook 2007, 2013, and 2016 with service packs.
+*  Configured and supported Outlook Web Access (OWA), Outlook Mobile Access (OMA), and Outlook Anywhere to provide remote email access for traveling executives and mobile staff.
+*  Installed and upgraded operating systems across the company, migrating users from Windows XP to Windows 7 and Windows 8 based on staff and management requirements.
+*  Performed routine system updates and application service pack installations for Microsoft Office suites (2010, 2013, 2016), ensuring software compatibility and security compliance.
 
 
 
-### System/Network Engineer
+### **System/Network Engineer**
 
 Luaj Data Systems, Abuja, Nigeria | 2009 – 2013
 
