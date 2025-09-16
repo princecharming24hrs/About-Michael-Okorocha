@@ -56,23 +56,23 @@ Dynamic and results-driven IT Professional with over 15 years of progressive exp
 
 Amdari Inc. - UK | June 2025 – Present
 
-▪ Developed and implemented cybersecurity frameworks using Windows Server 11, Linux (Kali), and Active Directory, protecting sensitive data from unauthorized access and reducing breach risk by 25%.
+* Developed and implemented cybersecurity frameworks using Windows Server 11, Linux (Kali), and Active Directory, protecting sensitive data from unauthorized access and reducing breach risk by 25%.
 
-▪	Implemented and optimized SIEM solutions (Splunk, ELK Stack), improving real-time threat detection and reducing cyber incidents by 40%, while cutting incident response time by 50% through automated alerting and streamlined remediation workflows.
+*	Implemented and optimized SIEM solutions (Splunk, ELK Stack), improving real-time threat detection and reducing cyber incidents by 40%, while cutting incident response time by 50% through automated alerting and streamlined remediation workflows.
 
-▪	Led comprehensive security audits aligned with ISO 27001, GDPR, and NIST frameworks, achieving 100% compliance and reinforcing regulatory adherence and enterprise risk mitigation.
+*	Led comprehensive security audits aligned with ISO 27001, GDPR, and NIST frameworks, achieving 100% compliance and reinforcing regulatory adherence and enterprise risk mitigation.
 
-▪	Identified and remediated vulnerabilities via proactive risk assessments, penetration testing (Nmap, Metasploit, Hydra), and automated patch management, reducing the organization’s attack surface by 85%.
+*	Identified and remediated vulnerabilities via proactive risk assessments, penetration testing (Nmap, Metasploit, Hydra), and automated patch management, reducing the organization’s attack surface by 85%.
 
-▪	Detected and neutralized 250+ viruses and malware through continuous monitoring with Wireshark, Metasploit, and Splunk, safeguarding 60+ websites without major security incidents.
+*	Detected and neutralized 250+ viruses and malware through continuous monitoring with Wireshark, Metasploit, and Splunk, safeguarding 60+ websites without major security incidents.
 
-▪	Strengthened facility security by implementing Cisco-based VPN access controls and physical security measures, lowering physical breach risk by 20%.
+*	Strengthened facility security by implementing Cisco-based VPN access controls and physical security measures, lowering physical breach risk by 20%.
 
-▪	Conducted vulnerability assessments and penetration testing using Nmap, Hydra, and MobSF, leading to a 25% reduction in successful attack attempts.
+*	Conducted vulnerability assessments and penetration testing using Nmap, Hydra, and MobSF, leading to a 25% reduction in successful attack attempts.
 
-▪	Maintained 99% data security through ongoing threat analysis and patch management with SIEM (ELK Stack) and advanced firewall configurations.
+*	Maintained 99% data security through ongoing threat analysis and patch management with SIEM (ELK Stack) and advanced firewall configurations.
 
-▪	Led company-wide risk assessment and compliance reviews aligned with ISO 27001 standards, reducing non-compliance issues by 30%.
+*	Led company-wide risk assessment and compliance reviews aligned with ISO 27001 standards, reducing non-compliance issues by 30%.
 
 
 
@@ -80,19 +80,19 @@ Amdari Inc. - UK | June 2025 – Present
 
 House on the Rock, Abuja, Nigeria | 2016 – Present
 
-•	Led IT infrastructure operations including website updates, social media account management, and livestreaming.
+*	Led IT infrastructure operations including website updates, social media account management, and livestreaming.
 
-•	Administered computer systems maintenance, software upgrades, and antivirus protection.
+*	Administered computer systems maintenance, software upgrades, and antivirus protection.
 
-•	Provided help desk support and organized IT training for staff.
+*	Provided help desk support and organized IT training for staff.
 
-•	Designed and managed secure network access, internet services, and LAN.
+*	Designed and managed secure network access, internet services, and LAN.
 
-•	Oversaw mailbox setup, email security, and digital asset management.
+*	Oversaw mailbox setup, email security, and digital asset management.
 
-•	Developed internal databases to support executive decision-making.
+*	Developed internal databases to support executive decision-making.
 
-•	Proposed and executed IT training plans for system migrations and remote work.
+*	Proposed and executed IT training plans for system migrations and remote work.
 
 
 
@@ -101,16 +101,15 @@ House on the Rock, Abuja, Nigeria | 2016 – Present
 
 Phillip Foundation International, Houston, TX (Remote) | 2021 – Present
 
-▪	Provide comprehensive help desk support, troubleshooting hardware, software, and network issues to ensure uninterrupted remote operations and user productivity.
+* Provide comprehensive help desk support, troubleshooting hardware, software, and network issues to ensure uninterrupted remote operations and user productivity.
 
-▪	Engineer and maintain system infrastructure, including configuration, monitoring, and optimization of IT resources to support organizational goals.
+* Engineer and maintain system infrastructure, including configuration, monitoring, and optimization of IT resources to support organizational goals.
 
-▪	Produce and edit high-quality video content for promotional, educational, and event purposes, enhancing digital engagement and audience reach.
+* Produce and edit high-quality video content for promotional, educational, and event purposes, enhancing digital engagement and audience reach.
 
-▪	Manage social media accounts across multiple platforms, developing content strategies, scheduling posts, and analyzing performance metrics to increase visibility and follower engagement.
+* Manage social media accounts across multiple platforms, developing content strategies, scheduling posts, and analyzing performance metrics to increase visibility and follower engagement.
 
-▪	Consult on live streaming events by coordinating technical setups, ensuring seamless broadcast quality, and troubleshooting real-time issues to maximize event impact.
-
+* Consult on live streaming events by coordinating technical setups, ensuring seamless broadcast quality, and troubleshooting real-time issues to maximize event impact.
 
 
 ### IT/Office Manager
