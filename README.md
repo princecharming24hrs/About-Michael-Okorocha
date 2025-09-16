@@ -19,35 +19,33 @@ Dynamic and results-driven IT Professional with over 15 years of progressive exp
 
 
 
-
-
 ## **Core Competencies**
 
-▪	Network Security
+*	Network Security
 
-▪	Vulnerability Assessment
+*	Vulnerability Assessment
 
-▪	Penetration Testing
+*	Penetration Testing
 
-▪	Threat Intelligence
+*	Threat Intelligence
 
-▪	Risk Analysis	▪	Incident Response
+*	Risk Analysis	▪	Incident Response
 
-▪	Malware Analysis
+*	Malware Analysis
 
-▪	Security Auditing
+*	Security Auditing
 
-▪	Log Analysis
+*	Log Analysis
 
-▪	Security Monitoring	▪	Packet Analysis 
+*	Security Monitoring	▪	Packet Analysis 
 
-▪	Endpoint Security 
+*	Endpoint Security 
 
-▪	Firewall Configuration 
+*	Firewall Configuration 
 
-▪	Analytical Thinking
+*	Analytical Thinking
 
-▪	Problem Solving
+*	Problem Solving
 
 
 ## **Professional Experience**
@@ -95,8 +93,6 @@ House on the Rock, Abuja, Nigeria | 2016 – Present
 *	Proposed and executed IT training plans for system migrations and remote work.
 
 
-
-
 ### **Help Desk Support / System Engineer**
 
 Phillip Foundation International, Houston, TX (Remote) | 2021 – Present
@@ -128,89 +124,100 @@ New Era Energy Solutions Nigeria Ltd, Abuja, Nigeria | 2013 – 2016
 
 Luaj Data Systems, Abuja, Nigeria | 2009 – 2013
 
-•	Maintained client LANs and servers (Domain Controllers, Exchange Servers).
+* Maintained and managed Local Area Network (LAN) infrastructure, ensuring reliable connectivity and optimal network performance for clients.
+* Designed, configured, and administered Windows-based servers including Domain Controllers and Microsoft Exchange Servers to support organizational communication and directory services.
+* Provided comprehensive support for client workstations connected to the network, troubleshooting hardware and software issues across Windows operating system platforms.
+* Designed and implemented user and server administration protocols on Windows OS platforms to enhance security, user management, and system stability.
 
-•	Delivered training on Microsoft Office, web tools, and server-client management.
 
-
-
-### System Engineer/Installer
+### **Installer/System Engineer**
 
 RTcom Nig Ltd, Abuja, Nigeria | 2012 – 2013
 
-•	Installed IP communication systems, Linux Fedora clients, and LAN infrastructure.
+* Installed and configured communication and security devices for threat management systems, ensuring robust security infrastructure for clients.
+* Set up and maintained IP phone systems, including hardware installation and software configuration to enable seamless voice communication across the network.
+* nstalled and configured Linux Fedora OS on client machines, tailoring setups to support communication requirements and operational efficiency.
+* Designed and implemented Local Area Networks (LAN) to facilitate communication between IP phones and Linux client machines, enabling effective integration with remote Network Operating Centres (NOCs).
 
-•	Trained users on VoIP systems and Linux-based tools.
 
-
-
-### Help Desk Support
+### **Network Administrator / System Analyst**   
 
 Spring Waters Nigeria Ltd (UACN plc), Plateau, Nigeria | 2007 – 2009
 
-•	Provided technical support and IT training for corporate staff.
+* Maintained and administered the company’s Local Area Network (LAN) to ensure continuous and secure connectivity across all departments.
+* Installed, configured, and managed servers and workstations, optimizing system performance and reliability for client users on the network.
+* Provided comprehensive help desk support, troubleshooting system and operating system issues promptly to minimize downtime and support staff productivity.
 
 
 
-### System Analyst / Network Engineer
+### **System Analyst**
 
 Chapman Computers / Interweb Satcom, Plateau, Nigeria | 2005 – 2007
 
-•	Assembled and maintained systems, configured wireless networks and VSAT.
-
-Training Head / Instructor / Maintenance Engineer
-
-Various Roles (Mikesyl, Deluke, Excel Systems) | 1998 – 2005
-
-•	Provided IT training, systems maintenance, and application software installations.
-
-•	Taught Chemistry at Federal Government College, Jos during NYSC service.
+* Maintained and troubleshot company computer systems and networks, ensuring optimal performance and minimal downtime.
+* Assembled and configured computer hardware to meet client specifications and operational requirements.
+* Installed, updated, and maintained software applications across multiple workstations to support business operations.
 
 
+### **Head of Training** 
+
+Deluke Computers   	|  2004 – 2005
+
+###  **Maintenance / Network Engineer** 
+
+Mikesyl Computers 	 |  2002 – 2004
+
+### **Computer Instructor / Training Officer** 
+
+Excel Systems 				|  1999 – 2002
+
+### **Chemistry Teacher** 
+
+Federal Government College Jos  |  1998 – 1999
 
 
 
 ## **Education**
 
-
-
-### B.Sc., Chemical Engineering
+**B.Sc. Chemical Engineering**
 
 Obafemi Awolowo University, Ile-Ife, Osun State | 1989 – 1997
 
-Certificate in Electronic Data Processing
+**Certificate in Electronic Data Processing**
 
-Diploma in Computer Applications
+Obafemi Awolowo University, Ile-Ife, Osun State | 1995
+
+**Diploma in Computer Applications**
 
 Excel Systems, Jos, Nigeria | 1999
 
 
 
-### Certifications \& Professional Training
+## **Certifications \& Professional Training**
 
-•	2024 | Cyber Incident Response
+* 2024 | Cyber Incident Response
+  
+* 2024 | Fundamentals of IT Cyber Governance
 
-•	2024 | Fundamentals of IT Cyber Governance
+* 2024 | Introduction to Data Governance and Privacy
 
-•	2024 | Introduction to Data Governance and Privacy
+* 2020 | Mikrotik Network Management
 
-•	2020 | Mikrotik Network Management
+* 2019 | Social Media Management
 
-•	2019 | Social Media Management
+* 2018–2019 | HTML \& CSS Fundamentals
 
-•	2018–2019 | HTML \& CSS Fundamentals
+* 2015 | WordPress Website Design \& Blogging
 
-•	2015 | WordPress Website Design \& Blogging
+* 2010 | Dreamweaver MX for Web Design
 
-•	2010 | Dreamweaver MX for Web Design
+* 2009 | Project Management
 
-•	2009 | Project Management
+* 2008 | ITIL Foundation – IT Service Management
 
-•	2008 | ITIL Foundation – IT Service Management
+* 2008 | Microsoft Exchange Server 2003 Administration
 
-•	2008 | Microsoft Exchange Server 2003 Administration
-
-•	2007 | Microsoft Certified Professional (MCP)
+* 2007 | Microsoft Certified Professional (MCP)
 
 
 
